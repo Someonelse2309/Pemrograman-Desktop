@@ -1,0 +1,16 @@
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\bin\Debug\net8.0-windows\Konversi suhu.exe
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\bin\Debug\net8.0-windows\Konversi suhu.deps.json
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\bin\Debug\net8.0-windows\Konversi suhu.runtimeconfig.json
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\bin\Debug\net8.0-windows\Konversi suhu.dll
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\bin\Debug\net8.0-windows\Konversi suhu.pdb
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\Konversi_suhu.Form1.resources
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\Konversi suhu.vbproj.GenerateResource.cache
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\Konversi suhu.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\Konversi suhu.AssemblyInfoInputs.cache
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\Konversi suhu.AssemblyInfo.vb
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\Konversi suhu.vbproj.CoreCompileInputs.cache
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\Konversi suhu.dll
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\refint\Konversi suhu.dll
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\Konversi suhu.pdb
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\Konversi suhu.genruntimeconfig.cache
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 1\Tugas Pengamatan\Konversi suhu\Konversi suhu\obj\Debug\net8.0-windows\ref\Konversi suhu.dll
