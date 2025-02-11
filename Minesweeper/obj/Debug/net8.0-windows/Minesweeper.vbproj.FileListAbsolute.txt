@@ -1,0 +1,17 @@
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.Form1.resources
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.vbproj.GenerateResource.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.AssemblyInfoInputs.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.AssemblyInfo.vb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.vbproj.CoreCompileInputs.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.sourcelink.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.exe
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.deps.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.runtimeconfig.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.pdb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\refint\Minesweeper.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.pdb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.genruntimeconfig.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\MineSweeper-Generator\Minesweeper\obj\Debug\net8.0-windows\ref\Minesweeper.dll
