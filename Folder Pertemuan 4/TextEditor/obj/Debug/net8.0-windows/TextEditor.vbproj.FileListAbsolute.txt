@@ -1,0 +1,17 @@
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\bin\Debug\net8.0-windows\TextEditor.exe
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\bin\Debug\net8.0-windows\TextEditor.deps.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\bin\Debug\net8.0-windows\TextEditor.runtimeconfig.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\bin\Debug\net8.0-windows\TextEditor.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\bin\Debug\net8.0-windows\TextEditor.pdb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.Form1.resources
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.vbproj.GenerateResource.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.AssemblyInfoInputs.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.AssemblyInfo.vb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.vbproj.CoreCompileInputs.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.sourcelink.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\refint\TextEditor.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.pdb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\TextEditor.genruntimeconfig.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\#Folder Pertemuan 4\TextEditor\obj\Debug\net8.0-windows\ref\TextEditor.dll
